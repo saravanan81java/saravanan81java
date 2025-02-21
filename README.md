@@ -12,7 +12,9 @@
 
 🚀 Senior Software Engineer | Java | AWS | Full-Stack Development
 
-With 18+ years of experience in software engineering, I specialize in Java 17, Spring Boot, and AWS to build scalable, high-performance applications. As an API Platform Lead, I have designed and implemented REST & SOAP services, microservices, and cloud-native solutions.
+With 18+ years of experience in software engineering, I specialize in Java 17, Spring Boot, AWS, and AI/ML to build scalable, high-performance applications. As an API Platform Lead, I have designed and implemented REST & SOAP services, microservices, and cloud-native solutions.
+
+🤖 AI/ML Interests: Exploring machine learning, deep learning, and AI-driven solutions with tools like TensorFlow, PyTorch, Scikit-learn, and AWS AI services. Passionate about integrating AI into enterprise applications.
 
 💡 Tech Stack: Spring Boot Embedded Server (Tomcat, Jetty), Java 17, 11, 1.8, 1.5, Spring MVC, Spring REST API, Spring Microservices, Spring Scheduler, Linux, Postgres 11.4, JUnit 5 & 4, XML, GCP, AZURE, AWS Lambda, Maven, Apache Jenkins CI/CD, GITLAB, Hibernate 6, Kafka 2.8.5, Angular 14, React JS 18, JavaScript, TypeScript, JSP, HTML, CSS, Ajax, JQuery, Swagger 2, Agile, Scrum, Kanban, BDD, TDD, SQL Server, PostgreSQL, MySQL 8.0, Kubernetes, Docker, Terraform, Helm Charts, Argo CD, Istio, Service Mesh, Zipkin.
 
@@ -21,7 +23,7 @@ With 18+ years of experience in software engineering, I specialize in Java 17, S
 - Oracle Certified Professional Java SE 17 Developer (2025)
 - AWS Certified Solutions Architect Associate (2024)
 
-🔹 Passionate about system design, cloud solutions, and mentoring engineers in modern tech stacks.
+🔹 Passionate about system design, cloud solutions, AI/ML, and mentoring engineers in modern tech stacks.
 
 - :computer: I am a seasoned senior java full stack engineer professional with over 18+ years of experience
 - :mortar_board: Bachelor of Engineering in Computer Science Engineering
