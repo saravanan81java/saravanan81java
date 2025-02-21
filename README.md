@@ -1,17 +1,22 @@
-## Hi there 👋
+### Hi I'm Saravanan Krishnamoorthy Sagadevan 👋 
 
-<!--
-**saravanan81java/saravanan81java** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="50%">
 
-Here are some ideas to get you started:
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=saravanan81java)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-test
+## 👁️ Profile Views
+![](https://komarev.com/ghpvc/?username=saravanan81java&color=brightgreen)
+
+## ![N|Solid](https://img.icons8.com/metro/2x/administrator-male.png) About Me
+
+
+
+
+
+
+## 🌐 Social Media Handles:
+[![N|Solid](https://img.icons8.com/fluent/72/linkedin.png)](https://www.linkedin.com/in/saravananks81)
+[![N|Solid](https://img.icons8.com/dusk/72/postman-api.png)](https://www.postman.com/saravanan81java)
+[![image](https://raw.githubusercontent.com/saravanan81java/saravanan81/refs/heads/main/image.png)
+](https://www.mentoring-club.com/the-mentors/saravanan-krishnamoorthy-sagadevan) 
