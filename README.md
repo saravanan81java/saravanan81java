@@ -6,9 +6,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=saravanan81java)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 👁️ Profile Views
-![](https://komarev.com/ghpvc/?username=saravanan81java&color=green&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=saravanan81java&color=brightgreen" width="250">
 
-## ![N|Solid](https://img.icons8.com/metro/2x/administrator-male.png) About Me
+## <img src="https://img.icons8.com/metro/2x/administrator-male.png" width="32" height="32" /> About Me
 
 🚀 Senior Software Engineer | Java | AWS | Full-Stack Development
 
@@ -32,7 +32,7 @@ With 18+ years of experience in software engineering, I specialize in Java 17, S
 
 📫 Let's connect and collaborate!
 
-## ![N|Solid](https://img.icons8.com/metro/2x/reading.png) What I Learn
+## <img src="https://img.icons8.com/metro/2x/reading.png" width="32" height="32"/> What I Learn
  - :hotsprings: Java 21, Spring Boot 3.5, Microservices, JavaScripts 6, Angular 19, React JS 19, Python 3.13.2
  - :white_check_mark: Selenium Webdriver
  - :rocket: Postman
@@ -44,10 +44,10 @@ With 18+ years of experience in software engineering, I specialize in Java 17, S
  - :six_pointed_star: Oracle, PostgreSQL, MySQL, SQL Server
 
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saravanan81java&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 [![Saravanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saravanan81java&show_icons=true&&theme=radical)](https://github.com/saravanan81java/github-readme-stats)
 
