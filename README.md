@@ -1,6 +1,6 @@
 ### Hi I'm Saravanan Krishnamoorthy Sagadevan 👋 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="50%">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="60%">
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=saravanan81java)](https://github.com/ryo-ma/github-profile-trophy)
