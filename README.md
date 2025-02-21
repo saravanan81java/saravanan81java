@@ -13,16 +13,16 @@
 🚀 Senior Software Engineer | Java | AWS | Full-Stack Development
 With 18+ years of experience in software engineering, I specialize in Java 17, Spring Boot, and AWS to build scalable, high-performance applications. As an API Platform Lead, I have designed and implemented REST & SOAP services, microservices, and cloud-native solutions.
 
-💡 Tech Stack: Java 17, Spring Boot, Microservices, AWS (Lambda, API Gateway, DynamoDB, ECS, EKS), Kafka, Elasticsearch, PostgreSQL, Kubernetes, Docker, Terraform, ReactJS, Angular, TypeScript.
+💡 Tech Stack: Spring Boot Embedded Server (Tomcat, Jetty), Java 17, 11, 1.8, 1.5, Spring MVC, Spring REST API, Spring Microservices, Spring Scheduler, Linux, Postgres 11.4, JUnit 5 & 4, XML, GCP, AZURE, AWS Lambda, Maven, Apache Jenkins CI/CD, GITLAB, Hibernate 6, Kafka 2.8.5, Angular 14, React JS 18, JavaScript, TypeScript, JSP, HTML, CSS, Ajax, JQuery, Swagger 2, Agile, Scrum, Kanban, BDD, TDD, SQL Server, PostgreSQL, MySQL 8.0, Kubernetes, Docker, Terraform, Helm Charts, Argo CD, Istio, Service Mesh, Zipkin.
 
 ✅ Certifications:
 
-Oracle Certified Professional Java SE 17 Developer (2025)
-AWS Certified Solutions Architect Associate (2024)
+- Oracle Certified Professional Java SE 17 Developer (2025)
+- AWS Certified Solutions Architect Associate (2024)
 
 🔹 Passionate about system design, cloud solutions, and mentoring engineers in modern tech stacks.
 
-- :computer: I am a seasoned full stack developer professional with over 18+ years of experience
+- :computer: I am a seasoned senior java full stack engineer professional with over 18+ years of experience
 - :mortar_board: Bachelor of Engineering in Computer Science Engineering
 - 💻 Senior java full stack engineer
 - :book: A Learner 
@@ -30,14 +30,14 @@ AWS Certified Solutions Architect Associate (2024)
 📫 Let's connect and collaborate!
 
 ## ![N|Solid](https://img.icons8.com/metro/2x/reading.png) What I Learn
- - :hotsprings: Java 17, Spring Boot, Microservices, JavaScripts, Angular, React JS
+ - :hotsprings: Java 21, Spring Boot 3.5, Microservices, JavaScripts 6, Angular 19, React JS 19, Python 3.13.2
  - :white_check_mark: Selenium Webdriver
  - :rocket: Postman
  - :m: Maven, Node.js
- - :clock4: Jmeter
- - :cloud: AWS, GCP, Azure DevOps, GitHub, Jenkins, Maven
+ - :clock4: Apache JMeter 5.6.3
+ - :cloud: AWS, GCP, Azure DevOps, GitHub, Jenkins, Maven, Docker, Kubernet
  - :books: Cucumber, Mockito
- - :bar_chart: BIRT Report, Extent Report
+ - :bar_chart: BIRT Report, Extent Report, iReport
  - :six_pointed_star: Oracle, PostgreSQL, MySQL, SQL Server
 
 
