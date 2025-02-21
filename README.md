@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=saravanan81java)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 👁️ Profile Views
-![](https://komarev.com/ghpvc/?username=saravanan81java&color=green)
+![](https://komarev.com/ghpvc/?username=saravanan81java&color=green&style=for-the-badge)
 
 ## ![N|Solid](https://img.icons8.com/metro/2x/administrator-male.png) About Me
 
