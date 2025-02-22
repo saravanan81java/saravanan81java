@@ -61,4 +61,6 @@ With 18+ years of experience in software engineering, I specialize in Java 17, S
 [![image](https://raw.githubusercontent.com/saravanan81java/saravanan81java/refs/heads/main/image.png)
 ](https://www.mentoring-club.com/the-mentors/saravanan-krishnamoorthy-sagadevan)
 [![N|Solid](https://img.icons8.com/color/72/stackoverflow.png)](https://stackoverflow.com/users/28155428/saravanan-ks)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/mail4saravananks)
+
 
