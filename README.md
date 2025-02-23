@@ -46,7 +46,7 @@ With 18+ years of experience in software engineering, I specialize in Java 17, S
 
 
 ## 🔝 Top Contributed Repo
-<table style="border:0">
+<table style="padding: 0px 0px;border: 0px solid;">
   <tr>
     <td>
       <img src="https://github-contributor-stats.vercel.app/api?username=saravanan81java&limit=5&theme=radical&combine_all_yearly_contributions=true" width="500"/>
@@ -56,7 +56,7 @@ With 18+ years of experience in software engineering, I specialize in Java 17, S
 
 ## 📊 GitHub Stats:
 
-<table style="border:0">
+<table style="padding: 0px 0px;border: 0px solid;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=saravanan81java&show_icons=true&theme=radical&hide_border=false" width="500"/>
