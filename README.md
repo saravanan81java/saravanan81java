@@ -33,7 +33,7 @@ With 18+ years of experience in software engineering, I specialize in Java 17, S
 📫 Let's connect and collaborate!
 
 ## <img src="https://img.icons8.com/metro/2x/reading.png" width="32" height="32"/> What I Learn
- - :hotsprings: Java 21, Spring Boot 3.5, Microservices, JavaScripts 6, Angular 19, React JS 19, Python 3.13.2
+ - :hotsprings: Java 21, Spring Boot 3.5, Microservices, JavaScripts (ES15), Angular 19, React JS 19, Python 3.13.2
  - :white_check_mark: Selenium Webdriver
  - :rocket: Postman
  - :m: Maven, Node.js
