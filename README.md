@@ -46,34 +46,21 @@ With 18+ years of experience in software engineering, I specialize in Java 17, S
 
 
 ## 🔝 Top Contributed Repo
-<table style="padding: 0px 0px;border: 0px solid;">
-  <tr>
-    <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=saravanan81java&limit=5&theme=radical&combine_all_yearly_contributions=true" width="500"/>
-    </td>
-  </tr>
-</table> 
+<div style="padding: 0px 0px;border: 0px solid;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=saravanan81java&limit=5&theme=radical&combine_all_yearly_contributions=true" width="500"/>
+</div> 
 
 ## 📊 GitHub Stats:
 
-<table style="padding: 0px 0px;border: 0px solid;">
-  <tr>
-    <td>
+<div style="padding: 0px 0px;border: 0px solid;">
       <img src="https://github-readme-stats.vercel.app/api?username=saravanan81java&show_icons=true&theme=radical&hide_border=false" width="500"/>
-    </td>   
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanan81java&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="500"/>
-    </td>
-  </tr>
-  <tr> 
-   <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saravanan81java&theme=highcontrast&hide_border=false" width="500"/>
-   </td>
-   </td>
-  </tr>
-</table>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanan81java&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="500"/>
+</div>
+<div> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saravanan81java&theme=highcontrast&hide_border=false" width="500"/>
+</div> 
 
 ## 🌐 Social Media Handles:
 [![N|Solid](https://img.icons8.com/fluent/72/linkedin.png)](https://www.linkedin.com/in/saravananks81)
