@@ -42,18 +42,38 @@ With 18+ years of experience in software engineering, I specialize in Java 17, S
  - :books: Cucumber, Mockito
  - :bar_chart: BIRT Report, Extent Report, iReport
  - :six_pointed_star: Oracle, PostgreSQL, MySQL, SQL Server
+ - :brain: AI/ML - Deep learning of Machine Learning and AI-driven solutions
 
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saravanan81java&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=saravanan81java&limit=5&theme=radical&combine_all_yearly_contributions=true" width="500"/>
+    </td>
+  </tr>
+</table> 
 
 ## 📊 GitHub Stats:
 
-[![Saravanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saravanan81java&show_icons=true&&theme=radical)](https://github.com/saravanan81java/github-readme-stats)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=saravanan81java&theme=highcontrast&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saravanan81java&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=saravanan81java&show_icons=true&theme=radical&hide_border=false" width="500"/>
+    </td>   
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanan81java&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="500"/>
+    </td>
+  </tr>
+  <tr> 
+   <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saravanan81java&theme=highcontrast&hide_border=false" width="500"/>
+   </td>
+   </td>
+  </tr>
+</table>
 
 ## 🌐 Social Media Handles:
 [![N|Solid](https://img.icons8.com/fluent/72/linkedin.png)](https://www.linkedin.com/in/saravananks81)
