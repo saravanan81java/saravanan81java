@@ -46,6 +46,7 @@ With 18+ years of experience in software engineering, I specialize in Java 17, S
  - :brain: AI Tools - ChatGPT, GitHub Copilot, Tabnine, Clude, Ollama, Midjourney, Stable Diffusion
  - :accept: Code Quality - Selenium, SonarQube, FindBugs, Checkstyle
  - :secret: 1Password, LastPass, OWASP, snyk, Nmap
+ - :brain: Terraform - Infrastructure as Code (IaC) tool 
 
 
 ## 🔝 Top Contributed Repo
