@@ -46,7 +46,7 @@ With 18+ years of experience in software engineering, I specialize in Java 17, S
  - :brain: AI Tools - ChatGPT, GitHub Copilot, Tabnine, Clude, Ollama, Midjourney, Stable Diffusion
  - :accept: Code Quality - Selenium, SonarQube, FindBugs, Checkstyle
  - :secret: 1Password, LastPass, OWASP, snyk, Nmap
- - :brain: Terraform - Infrastructure as Code (IaC) tool 
+ - :accept: Terraform - Infrastructure as Code (IaC) tool 
 
 **What is Terraform?** 
   Terraform is an infrastructure as code tool that lets you build, change, and version cloud and on-prem resources safely and efficiently.
