@@ -48,6 +48,8 @@ With 18+ years of experience in software engineering, I specialize in Java 17, S
  - :secret: 1Password, LastPass, OWASP, snyk, Nmap
  - :brain: Terraform - Infrastructure as Code (IaC) tool 
 
+**What is Terraform?** 
+  Terraform is an infrastructure as code tool that lets you build, change, and version cloud and on-prem resources safely and efficiently.
 
 ## 🔝 Top Contributed Repo
 <div style="padding: 0px 0px;border: 0px solid;">
